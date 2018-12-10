@@ -14,7 +14,9 @@ fn main() {
 }
 
 fn part_1(data: &str) -> i32 {
+    0
 }
 
 fn part_2(data: &str) -> i32 {
+    0
 }
